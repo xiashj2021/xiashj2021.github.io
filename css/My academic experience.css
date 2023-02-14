@@ -1,0 +1,52 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2021年10月29日, 下午10:39:35
+    Author     : dell
+*/
+            /* ID selector regarding font color and size settings */
+            #text {
+                color: black;
+                font-size: 200%   
+            }
+            /* heading style settings */
+            h1 {
+                color: cornsilk;
+            }
+            h2 {
+                color: white;
+                font-family:Edwardian Script ITC ;
+                text-align: center;
+                font-size: 220%
+            }
+            /* span1 style settings */
+            span1 {
+                color:   white ;
+                font-family: Blackadder ITC ;
+                text-align: center;
+                font-size: 200%  ;
+                text-shadow: 2px 2px 4px black;
+            }
+            /* span2 style settings */
+            span2 {
+                color:   black ;
+                font-family: Blackadder ITC ;
+                text-align: center;
+                font-size: 200%  ;
+            }
+            /* setting the pictures to move vertically up */
+            @keyframes move {
+                0% {
+                transform: translateY(0px);    
+                }
+                100% {
+                transform: translateY(-750px);
+                }
+            }
+            /* the middle column background settings */
+            .column.middle {
+                background-color: white        
+            }
+            

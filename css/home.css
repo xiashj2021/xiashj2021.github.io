@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2021年11月1日, 下午8:26:36
+    Author     : dell
+*/
+            /* ID selector regarding font color settings */
+            #text {
+                color: red;
+            }
+            /* font color settings of the navigation bar */
+            li a {
+                color: blue;
+            }
+            /* text shadow settings */
+            p {
+                text-shadow: 2px 2px 4px black;
+            }
+            /* ordered list buttons settings */
+            ol{
+                list-style-type: none;
+                overflow: auto;   
+            }  
+            li{
+                float: left
+            }
+            li a{
+                display: inline-block;
+                color: aqua;
+                text-align: center;
+                padding: 12px 14px;
+                text-decoration: none;
+                font-size: 170%;
+                font-family: Brush Script MT;
+            }
+            /* the color setting of the navigation bar when the mouse is hovered */
+            li a:hover {
+                background-color: red  

@@ -1,0 +1,137 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2021年10月26日, 下午3:48:35
+    Author     : dell
+*/          
+            /* the whole page layout settings */
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            /* navigation bar style settings */
+            ul{
+                list-style-type:none ;
+                overflow: auto;
+                
+            } 
+            li{
+                float: left
+            }
+            li a{
+                display: inline-block;
+                color: aqua;
+                text-align: center;
+                padding: 12px 14px;
+                text-decoration: none;
+                font-size: 170%;
+                font-family: Brush Script MT;
+            }
+            /* the color setting of the navigation bar when the mouse is hovered */
+            li a:hover {
+                background-color: red    
+            }
+            /* current navigation settings */
+            .active {
+                background-color: red
+            }
+            /* pictures scrolling settings */
+            .box > ul {
+                width: 200% ;
+                animation-name: move;
+                animation-duration: 7s;
+                animation-iteration-count: infinite;
+                animation-timing-function:  linear; 
+            }
+            .box > ul li {
+                float: left;
+                list-style: none;
+            }
+            /* setting the pictures to move horizontally to the left */
+            @keyframes move {
+                0% {
+                transform: translateX(0px);    
+                }
+                100% {
+                transform: translateX(-750px);
+                }
+            }
+            /* heading style settings */
+            h1 {
+                color: white;
+                font-family:Edwardian Script ITC ;
+                text-align: center;
+                font-size: 250%
+            }
+            h6 {
+                color: white;
+                font-family:Vladimir Script;
+                text-align: center;
+                font-size: 150%
+            }
+            /* heading style settings */
+            p {
+                color: white;
+                font-family: Freestyle Script;
+                text-align: center;
+                font-size: 200%  ;
+            }
+            /* header style settings */
+            .header { 
+                text-align: center;
+                padding:0
+            }
+            /* footer style settings */
+            .footer {
+                text-align: center;
+                padding: 35px;
+            }
+            /* column style settings */
+            .column {
+                float: left;
+            }    
+            .column.left {
+                width: 20%;
+            }
+            .column.middle {
+                width: 60%;
+            }
+            .column.right {
+                width: 20%
+            }
+            /* current navigation settings */
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+            /* web screen adaptive settings */
+            @media screen and (max-width: 600px) {
+            .column {
+                width: 100%;
+                    }
+            }
+            /* the setting of gradient animation in web interface */
+            .word-iten {
+                animation-name:  show ;
+                animation-duration: 2s;
+               
+            }  
+            @keyframes show {
+                from {
+                    opacity: 0 ;
+                }
+                to {
+                    opacity :1 ;
+                }    
+            }
+               
+            
+            
+
+            
+        
+                            
+            
