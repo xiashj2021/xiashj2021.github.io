@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
+### Lanzhou University
+* Department of Information Science and Engineering  
+B.S. in Data Science, 2021-2024
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
@@ -29,12 +31,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Front-end & Back-end Development
+* Data Analysis
+  * Mechine Learning
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Game Development
 
 Publications
 ======
