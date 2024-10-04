@@ -8,47 +8,47 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hi there! This is Shengjie Xia's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shengjie Xia"
+description              : &description "Personal Academic Webiste"
+url                      : https://xiashj2021.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xiashj2021/xiashj2021.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "shengjie.jpg"
+  name             : "Shengjie Xia"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "Shengjie Xia (B.E. '21) is a candidate for the B.E. degree in Computer Science from Lanzhou University, Lanzhou, China. His research interests include Artificial Intelligence and Data Science. He was the Meritorious Winner of 2023 Mathematical Contest in Modeling and won the First Prize of 2023 Lanzhou University Mathematical Modelling Competition and Selection Competition for 2023 China/Contemporary Undergraduate Mathematical Contest in Modeling. He is actively involved in student and social activities, loves reading and writing, badminton and cycling, and is interested in adventures."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Lanzhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiashj21@lzu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0000-7578-3685"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "xiashj2021"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
