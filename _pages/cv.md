@@ -15,7 +15,7 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 -->
-* *Candidate for* B.E. (Bachelor of Engineering) in Computer Science and Technology in Lanzhou, Lanzhou University, 2012
+* *Candidate for* B.E. (Bachelor of Engineering) in Computer Science and Technology in Lanzhou, Lanzhou University, 2025
 
 Work experience
 ======
