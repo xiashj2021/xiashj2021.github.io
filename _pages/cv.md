@@ -104,6 +104,12 @@ Teaching
   {% endfor %}</ul>
 -->
   
+Portfolio
+======
+  <ul>{% for post in site.portfolio reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Service and leadership
 ======
 * Nov. 2022 - present: Member
