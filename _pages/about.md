@@ -15,4 +15,4 @@ I am very fortunate to be advised by young [Associate Prof. Binbin Yong](https:/
 
 His CV is available here: [Shengjie Xia's CV](http://xiashj2021.github.io/cv/).
 
-[Email](mailto:xiashj21@lzu.edu.cn)/[GitHub](https://github.com/xiashj2021)
+[Email](mailto:xiashj21@lzu.edu.cn) / [GitHub](https://github.com/xiashj2021)
