@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](http://xiashj2021.github.io/files/Curriculum-Vitae.pdf)
+
 Education
 ======
 <!--
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 -->
-* *Candidate for* B.E. (Bachelor of Engineering) in Computer Science and Technology in Lanzhou, Lanzhou University, 2025
+* *Candidate for* B.E. (Bachelor of Engineering) in Computer Science and Technology in School of Information Science & Engineering, Lanzhou University, 2025
 
 Work experience
 ======
@@ -116,7 +118,7 @@ Service and leadership
     * Responsible for the publicity and development work of the association.
     * Mastered image processing and video editing.
     * Explored the development and numerical design of strategy games, and successfully organized the Third Simulated Diplomat Forum and the Third Strategy Simulation Challenge of Lanzhou University.
-* $23^{rd}$ May 2024 - $26^{th}$ May 2024: UK Delegate to the United Nations Security Council
+* 23rd May 2024 - 26th May 2024: UK Delegate to the United Nations Security Council
   * Beijing International Model United Nations Conference 2024
   * Topic:
     * Discussion on the Extension of the Multinational Security Support (MSS) Mission in Haiti.
@@ -124,7 +126,7 @@ Service and leadership
     * Actively engaged in consultations and organized resolution writing.
     * Involved in the settlement of international disputes and made speeches to clarify position.
   * Improved oral expression and document writing skills.
-* $1^{st}$ Aug. 2022 - $31^{st}$ Aug. 2022: Volunteer
+* 1st Aug. 2022 - 31st Aug. 2022: Volunteer
   * Lanzhou University Western Sky Association
   * Duties included:
     * Conducted popularization of scientific knowledge and teaching activities in elementary school in remote areas.
