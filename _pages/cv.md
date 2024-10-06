@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://xiashj2021.github.io/files/Curriculum-Vitae.pdf)
+[Download CV](http://xiashj2021.github.io/files/ShengjieXia_CV.pdf)
 
 Education
 ======
